@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(249, 241, 230);
+}
+.container{
+    max-width: 70%;
+    background-color: rgb(186, 225, 212);
+    margin: 0 auto;
+    padding: 20px;
+}
+img{
+    height: 110px;
+    width: 80px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.bio{
+    float: left;
+    padding: 5px;
+}
+h1,h2,h3,h4,h5,h6{
+   color: teal;
+}
+.contact{
+    float: right;
+    padding: 20px;
+}
+.contact a{
+    text-decoration: none;
+    color: teal
+}
+.contact a:hover{
+    text-decoration: underline;
+    color:burlywood;
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: 2px solid black;
+    width: 100%;
+}
+.right{
+    padding: 20px;
+    float: right;
+}
+.left{
+    float: left;
+}
+.common hr{
+    border:solid black 1px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+
+}
+.second{
+    float: left;
+    width: 45%;
+}
+.third{
+    float: right;
+    width: 45%;
+}
+.fourth{
+     
+     
+}
+.fourth a{
+    text-decoration: none;
+    float: right;
+}
